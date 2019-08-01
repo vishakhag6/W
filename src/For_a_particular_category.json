@@ -1,0 +1,45 @@
+{
+    "category_data": {
+        "id": 13,
+        "slug": "office-goods",
+        "category": "Office ke liye Leather bags",
+        "items": [
+            {
+                "image": {
+                    "placeholder": "https:\u002F\u002Fvia.placeholder.com\u002F24",
+                    "mobile": "https:\u002F\u002Fhomepages.cae.wisc.edu\u002F~ece533\u002Fimages\u002Ffruits.png"
+                },
+                "title": "Designer Necklace with stones",
+                "slug": "item-1",
+                "price": 400
+            },
+            {
+                "image": {
+                    "placeholder": "https:\u002F\u002Fvia.placeholder.com\u002F24",
+                    "mobile": "https:\u002F\u002Fhomepages.cae.wisc.edu\u002F~ece533\u002Fimages\u002Ffrymire.png"
+                },
+                "title": "American Diamond necklace",
+                "slug": "item-2",
+                "price": 500
+            },
+            {
+                "image": {
+                    "placeholder": "https:\u002F\u002Fvia.placeholder.com\u002F24",
+                    "mobile": "https:\u002F\u002Fhomepages.cae.wisc.edu\u002F~ece533\u002Fimages\u002Fairplane.png"
+                },
+                "title": "Placeholder text",
+                "slug": "item-3",
+                "price": 650
+            },
+            {
+                "image": {
+                    "placeholder": "https:\u002F\u002Fvia.placeholder.com\u002F24",
+                    "mobile": "https:\u002F\u002Fhomepages.cae.wisc.edu\u002F~ece533\u002Fimages\u002Fgoldhill.png"
+                },
+                "title": "Placeholder text",
+                "slug": "item-4",
+                "price": 540
+            }
+        ]
+    }
+}

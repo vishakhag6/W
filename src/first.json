@@ -1,0 +1,74 @@
+{
+  "widgets": [
+    {
+      "title": "Naye products",
+      "items": [
+        {
+          "id": 12,
+          "slug": "home-items",
+          "category": "Ghar ka samaan",
+          "image": {
+            "placeholder": "https://via.placeholder.com/24",
+            "mobile": "https://via.placeholder.com/280"
+          },
+          "itemCount": 5
+        },
+        {
+          "id": 13,
+          "slug": "office-goods",
+          "category": "Office ke liye Leather bags",
+          "image": {
+            "placeholder": "https://via.placeholder.com/24",
+            "mobile": "https://via.placeholder.com/280"
+          },
+          "itemCount": 3
+        },
+        {
+          "id": 14,
+          "slug": "kitchen-chopper",
+          "category": "Kitchen Chopper",
+          "image": {
+            "placeholder": "https://via.placeholder.com/24",
+            "mobile": "https://via.placeholder.com/280"
+          },
+          "itemCount": 2
+        }
+      ]
+    },
+    {
+      "title": "Dekhe hue products",
+      "items": [
+        {
+          "id": 12,
+          "slug": "home-items",
+          "category": "Ghar ka samaan",
+          "image": {
+            "placeholder": "https://via.placeholder.com/24",
+            "mobile": "https://via.placeholder.com/280"
+          },
+          "itemCount": 2
+        },
+        {
+          "id": 13,
+          "slug": "office-goods",
+          "category": "Office ke liye Leather bags",
+          "image": {
+            "placeholder": "https://via.placeholder.com/24",
+            "mobile": "https://via.placeholder.com/280"
+          },
+          "itemCount": 4
+        },
+        {
+          "id": 14,
+          "slug": "kitchen-chopper",
+          "category": "Kitchen Chopper",
+          "image": {
+            "placeholder": "https://via.placeholder.com/24",
+            "mobile": "https://via.placeholder.com/280"
+          },
+          "itemCount": 1
+        }
+      ]
+    }
+  ]
+}
